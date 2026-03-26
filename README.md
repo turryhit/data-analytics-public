@@ -1,2 +1,2 @@
 # data-analytics-public
-Collection of Data Analysis
+Collection of Data Analyses
